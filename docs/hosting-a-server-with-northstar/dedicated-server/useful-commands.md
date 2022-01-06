@@ -30,6 +30,8 @@ TODO: Extend and improve
 | `lf`            | Live Fire                    |
 | `rocket_lf`     | Rocket Arena                 |
 | `mfd`           | Marked for Death             |
+| `chamber`       | One in the Chamber           |
+| `hidden`        | The Hidden                   |
 
 
 * For setting map: `+map`
@@ -86,3 +88,4 @@ TODO: Extend and improve
 | `player_bleedout_firstAidTimeSelf`           |               |             |
 | `player_bleedout_firstAidHealPercent`        |               |             |
 | `player_bleedout_aiBleedingPlayerMissChance` |               |             |
+| `no_pilot_collision`                         |               |             |
